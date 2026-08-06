@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krishdelvadiya34-design/krishdelvadiya34-design/main/assets/profile.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #3498DB;" alt="Krish Delvadiya"/>
+  <img src="https://raw.githubusercontent.com/krishdelvadiya34-design/krishdelvadiya34-design/main/assets/profile.png" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #2E9EF7;" alt="Krish Delvadiya"/>
   <br/>
   <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="35"/>
 </div>
