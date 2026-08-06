@@ -1,102 +1,59 @@
-# 👋 Hi, I'm Krish Delvadiya
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180&section=header&text=Krish%20Delvadiya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### 🚀 Aspiring Python Developer | AI & Machine Learning Enthusiast | Data Science Learner
+<h3 align="center">AI/ML & Data Science Enthusiast | B.C.A. Student</h3>
 
-Welcome to my GitHub! I'm passionate about building projects, solving problems, and continuously learning new technologies. My goal is to become a skilled AI & Data Science Engineer by turning ideas into real-world applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Studying+AI%2FML+%26+Data+Science;Currently+Learning+Python;Building+Cool+Projects" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 
-## 🌟 About Me
-
-* 🐍 Currently learning **Python**
-* 🤖 Exploring **Artificial Intelligence** and **Machine Learning**
-* 📊 Developing my skills in **Data Science**
-* 💻 Building projects to strengthen my programming knowledge
-* 📚 Learning something new every day
-* 🎯 Goal: Become a professional AI Engineer
-
----
-
-## 🛠️ Technologies I'm Learning
-
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Git & GitHub
-* SQL
-* Machine Learning
-* Data Analysis
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KRISHDELVADIYA&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🚀 Current Journey
+### 🚀 About Me
 
-I believe the best way to learn is by building.
-
-Right now, I'm focusing on:
-
-* Writing clean and efficient Python code
-* Creating beginner-to-intermediate Python projects
-* Learning data analysis techniques
-* Understanding machine learning concepts
-* Improving problem-solving skills through practice
-
-Every project I upload represents another step in my learning journey.
+- 🎓 Pursuing **B.C.A.** at **Saurashtra University**
+- 📚 Studying **AI / ML & Data Science**
+- 🐍 Currently learning **Python**
+- 🌱 Always curious, always building
 
 ---
 
-## 📂 What You'll Find Here
+### 🛠️ Tech Stack
 
-* 🐍 Python Practice Programs
-* 📊 Data Science Exercises
-* 🤖 Machine Learning Projects (Coming Soon)
-* 🌐 Future Web Development Projects
-* 💡 Personal Learning Projects
-* 📚 Notes and Experiments
-
----
-
-## 🎯 2026 Goals
-
-* Complete Python Mastery
-* Learn NumPy, Pandas, and Matplotlib
-* Build 20+ Python Projects
-* Start Machine Learning Projects
-* Learn Deep Learning Basics
-* Contribute to Open Source
-* Create a Portfolio Website
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
 ---
 
-## 💭 My Learning Philosophy
+### 📊 GitHub Stats
 
-> *"Success doesn't come from knowing everything—it comes from learning something new every single day."*
-
-I enjoy exploring new technologies, taking on challenges, and sharing my progress through projects. Every commit is a step toward becoming a better developer.
-
----
-
-## 🌱 Beyond Coding
-
-When I'm not coding, you'll probably find me:
-
-* 📖 Learning about AI and emerging technologies
-* 🧩 Solving coding challenges
-* 🎥 Watching programming tutorials
-* 💡 Brainstorming ideas for future projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KRISHDELVADIYA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHDELVADIYA&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+### 🐍 Contribution Graph
 
-I'm always happy to learn from others, collaborate on interesting projects, and connect with fellow developers.
-
-If you find my work helpful, feel free to explore my repositories and follow my journey.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KRISHDELVADIYA/KRISHDELVADIYA/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
-# ⭐ Thanks for visiting my GitHub profile!
+<p align="center">
+  <i>⭐ Feel free to explore my repositories & connect with me!</i>
+</p>
 
-*"Keep learning. Keep building. Keep growing."* 🚀
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
