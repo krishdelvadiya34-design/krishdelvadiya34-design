@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/krishdelvadiya34-design/krishdelvadiya34-design/main/assets/profile.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #3498DB;" alt="Krish Delvadiya"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="35"/>
+</div>
+
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180&section=header&text=Krish%20Delvadiya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3 align="center">AI/ML & Data Science Enthusiast | B.C.A. Student</h3>
